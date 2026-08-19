@@ -1,116 +1,302 @@
-# 👋 Hi, I’m a Full Stack Developer Intern
+# 👋 Hi, I'm M Pabitra Kumar
 
-## 💼 Professional Summary
-Full Stack Developer Intern with hands-on experience in **React.js, Node.js, Express.js, and Java**.  
-Strong foundation in frontend and backend development, RESTful APIs, database management, and version control.  
-A passionate learner focused on writing clean, scalable code and building real-world web applications.
+### 📊 Data Analyst | Aspiring Data Scientist | Python • SQL • Machine Learning
 
----
+> Turning raw data into meaningful insights, business decisions, and intelligent solutions.
 
-## 🔭 Current Role
-**Full Stack Developer Intern – Indpro**
-
-- Developing and maintaining full stack web applications  
-- Building responsive user interfaces using **React.js**  
-- Creating backend services using **Node.js, Express.js, and Java**  
-- Working with databases and RESTful APIs  
-- Collaborating in an **Agile development environment**
-
----
-
-## 🛠️ Tech Stack & Tools
-
-### 💻 Languages & Frameworks
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-
-### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-### 🔧 Backend
-![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Nodemon](https://img.shields.io/badge/nodemon-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
-
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-### ☁️ Cloud & Tools
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-### 🎨 Design & Utilities
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+<p align="left">
+  <a href="https://github.com/pabitramanda42">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/pabitra-manda-obidently">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:pabitramanda42@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🌱 Currently Learning
-- Advanced **React.js** (hooks, performance optimization)  
-- **Node.js** backend architecture and API security  
-- **Java** backend development best practices  
-- Database optimization and real-world system design  
+## 🧑‍💻 About Me
+
+I'm a **Data Analyst and aspiring Data Scientist** with hands-on experience working with data using **Python, SQL, Excel, Power BI, Tableau, and Machine Learning**.
+
+I enjoy transforming raw and messy datasets into clean, structured, and meaningful insights through **data cleaning, exploratory data analysis, visualization, statistical analysis, and predictive modeling**.
+
+🎯 **Career Focus:** Data Analytics → Data Science → Machine Learning
+
+* 📊 Data Analysis & Business Intelligence
+* 🐍 Python for Data Science
+* 🗄️ SQL & Database Analysis
+* 📈 Data Visualization & Dashboarding
+* 🤖 Machine Learning & Predictive Modeling
+* 🔄 ETL & Data Transformation
+* 📚 Continuously learning and building real-world projects
 
 ---
 
-## 👯 Open to Collaboration
-- Full stack web development projects  
-- React & Node.js applications  
-- Java backend systems  
-- Open-source contributions  
+## 🚀 What I Do
+
+```text
+Raw Data
+    ↓
+Data Cleaning & Transformation
+    ↓
+Exploratory Data Analysis
+    ↓
+Statistical Analysis
+    ↓
+Visualization & Dashboarding
+    ↓
+Machine Learning / Predictive Modeling
+    ↓
+Actionable Business Insights
+```
 
 ---
 
-## 🤝 Looking for Help With
-- Scalable application architecture  
-- Clean code and design patterns  
-- Backend performance optimization  
-- Industry best practices  
+## 🛠️ Technical Skills
+
+### 🐍 Programming & Data Analysis
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+</p>
+
+**Data Analysis:**
+Data Cleaning • Data Transformation • Exploratory Data Analysis • Statistical Analysis • Data Validation • Pattern Identification • Outlier Analysis • Business Metrics
 
 ---
 
-## 💬 Ask Me About
-- React.js frontend development  
-- Node.js & Express APIs  
-- Java backend fundamentals  
-- Full stack project workflows  
-- Internship learning experiences  
+### 📊 Data Visualization & Business Intelligence
+
+<p>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
+</p>
+
+**Analytics & Reporting:**
+Interactive Dashboards • KPI Tracking • Business Metrics • Data Reporting • Trend Analysis • Performance Monitoring • Data Storytelling
 
 ---
 
-## ⚡ Fun Fact
-I’m a continuous learner who enjoys turning complex problems into simple, efficient solutions 🚀
+### 🤖 Machine Learning
+
+<p>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+</p>
+
+**Machine Learning:**
+Predictive Modeling • Classification • Regression • Model Evaluation • Feature Preparation • Train/Test Splitting • Performance Comparison
+
+> Currently building stronger foundations in end-to-end Machine Learning workflows.
 
 ---
 
-## 🌐 Connect With Me
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pabi.tra__)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pabitra-manda-obidently)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Pavi.svt__fr)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pabitramanda42@gmail.com)
+### 🔄 ETL & Data Engineering Foundations
+
+**ETL:**
+Data Extraction • Data Transformation • Data Cleaning • Data Loading • Data Preparation • Workflow Development
+
+**Databases:**
+
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
 
 ---
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=pabitramanda42&theme=dark&hide_border=false)
-![](https://nirzak-streak-stats.vercel.app/?user=pabitramanda42&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pabitramanda42&theme=dark&hide_border=false&layout=compact)
+### 🔧 Tools & Development
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+Git • GitHub • Jupyter Notebook • Data Analysis Workflows • Version Control
 
 ---
 
-### 🔝 Top Contributed Repositories
-![](https://github-contributor-stats.vercel.app/api?username=pabitramanda42&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 📌 Featured Data Projects
+
+### 📉 Customer Retention & Churn Analysis
+
+**Python • SQL • Power BI • Data Analysis**
+
+* Cleaned and prepared customer data by handling missing values, duplicates, and inconsistent records.
+* Analyzed customer behavior to identify patterns associated with churn and retention.
+* Used SQL to segment customers based on tenure, usage, and business factors.
+* Created interactive Power BI dashboards to monitor churn rate, retention rate, and customer KPIs.
+
+🔗 **Repository:**
+`github.com/pabitramanda42/FUTURE_DS_02`
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=pabitramanda42&icon=0&color=0)](https://visitcount.itsvg.in)
+### 📈 Business Sales Performance Analytics
+
+**Python • Pandas • NumPy • Power BI**
+
+* Cleaned and transformed sales datasets.
+* Analyzed sales trends, product performance, revenue, and profit.
+* Built an interactive Power BI dashboard for business performance monitoring.
+* Identified top-performing products, regions, and key revenue drivers.
+
+🔗 **Repository:**
+`github.com/pabitramanda42/FUTURE_DS_01`
+
+---
+
+## 💼 Professional Experience
+
+### 🔬 Data Science Intern — Future Interns
+
+**July 2026 – August 2026**
+
+* Processed **200+ records** using Python, Pandas, and NumPy.
+* Performed data cleaning including missing values, duplicates, and inconsistent data.
+* Conducted EDA across **5+ datasets**.
+* Identified trends, correlations, and outliers.
+* Developed and evaluated **3+ Machine Learning models** using Scikit-learn.
+
+### 🧠 Data Scientist — Labmentix
+
+**January 2026 – July 2026**
+
+* Developed Machine Learning models achieving up to **88% accuracy** on structured datasets.
+* Analyzed and refined **20,000+ records** through EDA and preprocessing.
+* Improved data quality by approximately **25%** through data preparation and cleaning.
+* Created dynamic Power BI dashboards for KPI tracking and performance monitoring.
+
+### 💻 Previous Experience — Full Stack Development
+
+I also have experience building full-stack applications using the **MERN stack**, Java, REST APIs, and databases.
+
+While my current career focus is **Data Analytics and Data Science**, this software development background helps me understand how analytical solutions can be integrated into real-world applications.
+
+---
+
+## 🌱 Currently Learning & Expanding
+
+I'm continuously developing the skills required for modern Data Science roles:
+
+* 📊 Advanced Data Analytics
+* 🐍 Advanced Python for Data Science
+* 🗄️ Advanced SQL
+* 🤖 Machine Learning
+* 📈 Advanced Statistics
+* 🔄 End-to-End ETL Workflows
+* 🚀 Machine Learning Deployment
+* 🧪 Model Evaluation & Optimization
+* ☁️ Cloud & MLOps fundamentals
+
+---
+
+## 🎯 Career Direction
+
+```text
+Data Analytics
+      │
+      ▼
+Advanced Analytics
+      │
+      ▼
+Machine Learning
+      │
+      ▼
+Data Science
+      │
+      ▼
+ML Deployment & MLOps
+```
+
+My goal is to build **practical, end-to-end data projects** that demonstrate not only technical skills, but also the ability to solve real business problems.
+
+---
+
+## 📚 Areas I'm Interested In
+
+* 📊 Data Analytics
+* 🤖 Machine Learning
+* 📈 Business Intelligence
+* 🔍 Exploratory Data Analysis
+* 🧠 Predictive Analytics
+* 🔄 ETL & Data Pipelines
+* 📉 Customer Analytics
+* 💰 Sales & Business Analytics
+* 📊 KPI & Performance Analytics
+* 🚀 Machine Learning Deployment
+
+---
+
+## 🤝 Open to Collaboration
+
+I'm interested in collaborating on:
+
+* Data Analytics projects
+* Machine Learning projects
+* Python projects
+* SQL analytics projects
+* Power BI / Tableau dashboards
+* Open-source data projects
+* Real-world business analytics problems
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pabitramanda42&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabitramanda42&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=pabitramanda42&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pabitramanda42\&theme=tokyo-night\&hide_border=true)
+
+---
+
+## 🤝 Let's Connect
+
+<p align="left">
+<a href="https://linkedin.com/in/pabitra-manda-obidently">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:pabitramanda42@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/pabitramanda42">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+### ⚡ Fun Fact
+
+> I enjoy taking messy datasets, finding the story hidden inside them, and turning that story into actionable insights. 📊🐍
+
+---
+
+<p align="center">
+  <i>“Data is only valuable when it helps us make better decisions.”</i>
+</p>
+
+<p align="center">
+  ⭐ If you find my projects useful, feel free to explore my repositories!
+</p>
